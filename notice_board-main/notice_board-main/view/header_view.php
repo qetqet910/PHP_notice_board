@@ -16,8 +16,8 @@
     <header>
         <div class="headerback"></div>
         <a class="logo" href="index.php">
-            <ion-icon name="logo-slack"></ion-icon>
-            <div>Kcals</div>
+            <ion-icon name="planet-outline"></ion-icon>
+            <div>LOGO</div>
         </a>
         <input type=" checkbox" id="responsivebtn"></input>
         <label for="responsivebtn">
